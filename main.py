@@ -15,6 +15,8 @@ with st.sidebar:
     st.markdown(
         """
     - Gunakan slider dan dropdown untuk mengisi spesifikasi laptop.
+    - Pastikan semua kolom terisi dengan benar.
+    - Pilih merek laptop, tipe, dan sistem operasi yang sesuai.
     - Tekan tombol **Prediksi Harga** untuk melihat hasil prediksi.
     """
     )
