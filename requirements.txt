@@ -1,5 +1,6 @@
 pandas==2.2.3
 numpy==2.1.1
+pip == 25.0.1
 streamlit
 scikit-learn
 joblib
