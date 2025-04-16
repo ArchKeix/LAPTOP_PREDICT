@@ -4,3 +4,5 @@ pip == 25.0.1
 streamlit
 scikit-learn
 joblib
+category_encoders
+catboost
