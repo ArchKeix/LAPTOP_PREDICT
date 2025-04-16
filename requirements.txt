@@ -1,0 +1,11 @@
+pandas==2.2.3
+numpy==2.1.1
+streamlit
+scikit-learn
+joblib
+matplotlib
+seaborn
+catboost
+category_encoders
+gdown
+re
