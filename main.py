@@ -11,7 +11,7 @@ st.markdown("Masukkan spesifikasi laptop untuk memprediksi harganya:")
 
 # Sidebar dengan kategori umum
 with st.sidebar:
-    st.header("📋 Keterangan")
+    st.header("📋 Panduan Penggunaan ")
     st.markdown(
         """
     - Gunakan slider dan dropdown untuk mengisi spesifikasi laptop.
